@@ -6,7 +6,8 @@ def multiply(x, y):
     return x * y
 
 def subtract(x, y):
-    return x - y
+    difference = x - y
+    return difference
 
 def main():
     sum = 0
