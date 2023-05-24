@@ -1,5 +1,6 @@
 def add(x, y):
-    return x + y
+    sum = x + y
+    return sum
 
 def multiply(x, y):
     return x * y
